@@ -1,4 +1,4 @@
-# Public Market Stall Rental Ledger
+# Palengke Ledger
 
 Public Market Stall Rental Ledger addresses this by turning the workflow into a Stellar testnet record with clear state transitions. Local merchants need programmable settlement, receipts, and credit rails that are cheaper than traditional intermediaries.
 
